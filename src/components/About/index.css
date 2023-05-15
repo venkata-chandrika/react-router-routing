@@ -1,0 +1,16 @@
+/* Write your CSS code here */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  color: #6d396b;
+}
+.about {
+  color: #555555;
+  font-size: 22px;
+}
+.img {
+  width: 40%;
+}

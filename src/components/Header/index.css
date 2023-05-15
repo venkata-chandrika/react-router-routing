@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.nav-bar-container {
+  display: flex;
+  justify-content: space-between;
+}
+.logo-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.logo {
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+}
+.wave {
+  color: #12022f;
+  font-size: 22px;
+}
+.list-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+.list {
+  color: #12022f;
+  margin: 20px;
+}
